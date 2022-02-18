@@ -1,3 +1,7 @@
+# DL-DIY potential project ideas
+
+The code is working on CIFAR10 (run the file `main_minimoco.py`). Experiment on another dataset, remove batchnorm, change the loss...
+
 ## MoCo: Momentum Contrast for Unsupervised Visual Representation Learning
 
 <p align="center">
